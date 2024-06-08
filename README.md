@@ -1,2 +1,3 @@
 # nodeCC
-node crash course
+
+Personal Blog Website built using node and express js
